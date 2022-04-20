@@ -1,5 +1,5 @@
 import '@styles/globals.css';
-import Header from '@components/header';
+import Header from '@components/Header';
 
 function Application({ Component, pageProps }) {
   return (
